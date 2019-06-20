@@ -6,9 +6,9 @@ This repository is the implementation of KGNN-LS ([arXiv](http://arxiv.org/abs/1
 Hongwei Wang, Fuzheng Zhang, Mengdi Zhang, Jure Leskovec, Miao Zhao, Wenjie Li, Zhongyuan Wang.  
 In Proceedings of The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019)
 
-![](https://github.com/hwwang55/KGCN/blob/master/framework.png)
+![](https://github.com/hwwang55/KGNN-LS/blob/master/framework.png)
 
-KGNN-LS applies the technique of graph neural networks (GNN) to proces knowledge graphs for the purpose of recommendation.
+KGNN-LS applies the technique of graph neural networks (GNNs) to proces knowledge graphs for the purpose of recommendation.
 The model is enhanced by adding a label smoothness regularizer for more powerful and adaptive learning.
 
 
